@@ -6,8 +6,7 @@ BTC MINER est un mineur de bitcoins avec une interface pour le rendre facile à 
 
 
 ❤️ __Me faire une donnation:__
-- BTC: bc1qr6f457d6uup98uvj38xcjtmzf5xf0syevyd49q
-- LTC: LTMZEKR8tz8dhPntWu8rMnip7jzTguH6CV
+- y'a plus :(
 
 
 Application & terminal:
